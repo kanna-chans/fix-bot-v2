@@ -59,7 +59,6 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6282398074198', 'KANNA-BOT', true],
-  ['6285797329366', 'bapamu', true],
   ['6287841959988', 'RaraDevoloper', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
